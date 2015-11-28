@@ -1,4 +1,5 @@
 # Moodie -- https://sites.google.com/site/ammobilecomputing/projects/moodie
+ALL THE CODE IS HERE: https://github.com/ilyankou/Moodie
 
 Title: Moodie (created by combining "mood" and "movie" --> emphasises the meaning of the app).
 
